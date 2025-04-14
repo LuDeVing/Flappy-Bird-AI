@@ -122,4 +122,6 @@ Feel free to use, modify, and distribute it.
 
 ![image](https://github.com/user-attachments/assets/01c6d9cb-5478-4e88-b80b-f3a42d902717)
 
+Thanks for cheking my project out.
+
 Have fun experimenting with AI and game development in this playful project! Happy coding! 🐦💻🎮
